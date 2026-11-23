@@ -16,3 +16,6 @@ while True:
     else:
         print("Your number was too big. Take a smaller guess...")
 print("---GAME OVER--- ")
+
+#add validation like 5 attempts left 
+#ask you want to play continue or exit 
